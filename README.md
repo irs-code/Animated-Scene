@@ -28,8 +28,8 @@ This project is intended to be run inside **Code.org Game Lab**:
 2. Create a new project (or open an existing Game Lab project).
 3. Copy/paste the contents of `project.js` into the Game Lab code editor.
 4. Make sure you have animations in the **Animation Tab** with these exact names:
-   - `polarBear`
-   - `carp`
-   - `penguin`
+   - `peng`
+   - `person1`
+   - `person2`
 5. Click **Run**.
 
