@@ -21,8 +21,15 @@ Includes all requirements for rubric including optional stretch feature.
 **Final grade: 100**
 
 ## How to Run
-1. Open [Code.org Game Lab](https://studio.code.org/projects/gamelab)
-2. Copy the contents of `project.js` into the editor
-3. Add the required sprite animations (`peng`, `person1`, `person2`, `sun`, `cloud`)
-4. Click **Run**
+
+This project is intended to be run inside **Code.org Game Lab**:
+
+1. Open Code.org **Game Lab**.
+2. Create a new project (or open an existing Game Lab project).
+3. Copy/paste the contents of `project.js` into the Game Lab code editor.
+4. Make sure you have animations in the **Animation Tab** with these exact names:
+   - `polarBear`
+   - `carp`
+   - `penguin`
+5. Click **Run**.
 
